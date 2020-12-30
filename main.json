@@ -651,7 +651,7 @@
                  "imageheight":32,
                  "imagewidth":64
                 }],
-         "tilewidth":64
+         "tilewidth":32
         },
         {
          "columns":3,
