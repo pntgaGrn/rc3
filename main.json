@@ -35,7 +35,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"{<lobby>\/maps\/freedom.json#start_anarchist-village}"
+                         "value":"https://lobby.maps.at.rc3.world/\/maps\/freedom.json#start_pneutig"
                         }],
                  "type":"tilelayer",
                  "visible":true,
