@@ -35,7 +35,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"{<lobby>\/maps\/freedom.json#start_anarchist-village}"
+                         "value":"{<lobby>/maps/software.json#start_pneutig}"
                         }],
                  "type":"tilelayer",
                  "visible":true,
