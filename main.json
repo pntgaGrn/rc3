@@ -32,7 +32,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\"https:\/\/lobby.maps.at.rc3.world\/\/maps\/software.json#start_pneutig\""
+                 "value":"https://lobby.maps.at.rc3.world\/\/maps\/software.json#start_pneutig"
                 }],
          "type":"tilelayer",
          "visible":true,
